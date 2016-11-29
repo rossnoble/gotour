@@ -11,5 +11,5 @@ func main() {
 	b = 3
 
 	fmt.Println(a, b, c, python, java)
-	// => 1, 3, true, false, "no!"
+	// => 1 3 true false "no!"
 }
