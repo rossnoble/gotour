@@ -1,9 +1,5 @@
 package rectangle
 
-import (
-	"fmt"
-)
-
 type Rectangle struct {
 	X, Y int
 }

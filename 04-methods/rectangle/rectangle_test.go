@@ -2,6 +2,8 @@ package rectangle_test
 
 import (
 	"testing"
+
+	"github.com/rossnoble/gotour/04-methods/rectangle"
 )
 
 func TestRectangle(t *testing.T) {
